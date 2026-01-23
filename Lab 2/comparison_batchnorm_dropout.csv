@@ -1,0 +1,4 @@
+Experiment,Configuration,Final Accuracy
+1,"Scenario 1: No BN, No Dropout",98.97%
+2,"Scenario 2: No BN, Dropout=0.1",99.23%
+3,"Scenario 3: With BN, Dropout=0.25",99.31%

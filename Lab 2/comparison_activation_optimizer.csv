@@ -1,0 +1,7 @@
+Experiment,Model,Activation,Optimizer,Epochs,Final Accuracy
+1,CNN,SIGMOID,Adam,10,98.96%
+2,CNN,TANH,Adam,10,98.59%
+3,CNN,RELU,Adam,10,98.85%
+4,CNN,ReLU,SGD,10,98.86%
+5,CNN,ReLU,SGD_Momentum,10,99.29%
+6,CNN,ReLU,Adam,10,99.12%
