@@ -1,0 +1,4 @@
+Model,Optimizer,Epochs,Loss Function,Training Accuracy,Testing Accuracy
+VGGNet,Adam,10,BCE,92.91%,78.09%
+AlexNet,SGD,20,Focal Loss,89.81%,81.92%
+ResNet,Adam,15,ArcFace,3.69%,4.70%
